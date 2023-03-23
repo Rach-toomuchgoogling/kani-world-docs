@@ -108,5 +108,21 @@ you would run this command in the
 
 ```
 ?role 394252318 rumbler
+
+## `?reroll`
+Change the special move of your Kani. See [here](/docs/specials/) for more
+information on special moves.
+
+This command requires two arguments in this order:
+
+| Argument  | Description                          |
+| --------- | ------------------------------------ |
+| Asset ID  | The Algorand ASA ID of the Kani NFT. |
+| `special` | The word special.                    |
+
+### Example
+```
+?reroll 123456789 special
+```
 ```
 [Next: Scavenge for Scum](/docs/quick-start/5-scavenge){: .btn .btn-blue }
