@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bot Commands
+title: Item NFTs
 parent: Algorand Assets
 ---
 ## Items
