@@ -13,9 +13,9 @@ Kani Coin is the main in game currency of Kani World. It can be accumulated
 passively by holding Kani in your wallet and actively through playing the 
 game. 
 
-In game it is used for naming your kani, rerolling your special move and item crafting.
-
-In addition Kani Coin is used for peer to peer trading through Kappa's Marketplace, Kani Coin Auctions and Bounties.
+In game it is used for naming your kani, rerolling your special move and item crafting. 
+In addition Kani Coin is used for peer to peer trading through Kappa's Marketplace,
+Kani Coin Auctions and Bounties.
 
 {: .pro-tip }
 > If you want to keep the Kani Coin in your game account (not your wallet), you
