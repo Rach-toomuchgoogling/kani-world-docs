@@ -1,1 +1,39 @@
+## Kani Coin Auctions
+Kani Coin Auctions is a channel for any auction in Kani Coin. Community members
+are welcome to list anything they like in this channel and moderate the
+auctions themselves. Please be careful when using this channel as all
+auctions/sales/trades are the responsibility of the parties involved in the
+auction. When completing trades I recommend using
+[Swapper Tools](https://app.swapper.tools) or
+[Nexus App](https://app.nexusasa.com) to stay safe.
+
+## Bounty Hunters
+This channel is where community members are welcome to post bounties. Please
+keep the bounties appropriate and to the rules of the server.
+
+
+
+## Kappas Marketplace
+The marketplace is a place to trade
+[blockchain fragments](/glossary/#blockchain-fragment) and
+[consumable items](/glossary/#consumable-item) with other players. Each player
+is limited to one listing at a time. Creating a new listing will overwrite your
+existing listing.
+
+{: .warning }
+> The marketplace is very basic and has had limited testing. Use at your own
+> risk.
+
+### Marketplace Commands
+- [`?market`](/docs/commands/#market) shows all current listings. Each item is
+  given an index number which you will need when attempting to purchase from
+  the market.
+- [`?buy`](/docs/commands/#buy) this is where the UX is not so nice, apologies
+  everyone! You will need to enter the price and currency as a confirmation you
+  are purchasing the correct item.
+- [`?sell`](/docs/commands/#sell) again sorry for the poor UX. The item will
+  need to be entered as it is in your [`?bag`](/docs/commands/#bag) (e.g.
+  `fragment-0`). You can ask for either `scum` or `kc`.
+- [`?cancel`](/docs/commands/#cancel) this will remove your current listing
+  from the market.
 
