@@ -33,6 +33,10 @@ that you have a reasonable chance of beating. You can use the
 to see which players have a similar or weaker rumbler and are sitting on a nice
 big pile of scum.
 
+## Battle Points
+Battle points are a way to track who is the most successful player in PvP
+encounters. Every PvP encounter awards battle points for both the winner and
+the loser. Winning a PvP rewards 3 points while losing gives 1 point. 
 
 
 See [Player vs. Player](/docs/gameplay/pvp) for more details.
