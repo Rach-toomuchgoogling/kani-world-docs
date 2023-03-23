@@ -27,3 +27,19 @@ grand_parent: Documentation
 
 {: .pro-tip }
 > Make sure your special move aligns with a stat you buff.
+
+## `?reroll`
+Change the special move of your Kani. See [here](/docs/specials/) for more
+information on special moves.
+
+This command requires two arguments in this order:
+
+| Argument  | Description                          |
+| --------- | ------------------------------------ |
+| Asset ID  | The Algorand ASA ID of the Kani NFT. |
+| `special` | The word special.                    |
+
+### Example
+```
+?reroll 123456789 special
+```
