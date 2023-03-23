@@ -8,10 +8,12 @@ KAPPAONZDABE5CJI4JL6NWFUP4WDHBBKIOAOHIANH57K3CPXKSPKTLADWI
 NFD: kappa.kaniworld.algo
 ```
 
-## Kappas Craft House
-This is where you can attempt to craft an item by trading, you will need to
+## Kappas Craft House: Item Crafting
+This discord channel is where you can attempt to craft an item. You will need to
 bring your [blockchain fragments](/glossary/#blockchain-fragment) and your Kani
-Coin. See [here](/docs/gameplay/items#item-crafting) for more details.
+Coin.  The fee for each item type will vary. You can use [`?blueprints`](/docs/commands/#blueprints) to view the
+fee for each item. See [item crafting](/docs/gameplay/items) for more details.
+See [here](/docs/gameplay/items#item-crafting) for more details.
 
 
 ### Name Change
@@ -30,8 +32,4 @@ roll will give you an equal chance at any of the special moves excluding your
 current special. Use the [`?reroll`](/docs/commands/#reroll) command to change
 your Kani's special move.
 
-### Item Crafting
-You need Kani Coin in the game in order to craft an item. The fee for each item
-will vary. You can use [`?blueprints`](/docs/commands/#bludprints) to view the
-fee for each item. See [item crafting](/docs/gameplay/items) for more details.
 
