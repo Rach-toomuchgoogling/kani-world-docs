@@ -19,4 +19,4 @@ nav_order: 2
 
 
 
-[Next: Acquire a Kani](/docs/quick-start/2-assign-a-role){: .btn .btn-blue }
+[Next: Join Discord](/docs/quick-start/2-assign-a-role){: .btn .btn-blue }
