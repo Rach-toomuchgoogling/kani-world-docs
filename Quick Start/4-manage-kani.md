@@ -4,6 +4,55 @@ title: 4. Assign a Role
 parent: Quick Start
 nav_order: 4
 ---
+
+# Kani Management
+## `?mykani`
+View your Kani and their stats. This will also check your Algorand wallet for
+new Kani NFTs. If no additional arguments are given this will display the stats
+of your rumbler Kani.
+
+This command takes one optional argument which can be any of these:
+
+| Argument  | Description                                                | Example            |
+| --------- | ---------------------------------------------------------- | ------------------ |
+| Role Name | Display the stats for a Kani besides your rumbler.         | `?mykani explorer` |
+| `all`     | Display the stats for all of the Kani in your wallet.      | `?mykani all`      |
+| `list`    | Display a short listing of all of the Kani in your wallet. | `?mykani list`     |
+
+## `?role`
+Assign a role to one of your Kani. See [here](/docs/roles/) for more
+information on the various roles which can be assigned to your kani.
+
+This command requires two arguments in this order:
+
+| Argument  | Description                                                 |
+| --------- | ----------------------------------------------------------- |
+| Asset ID  | The Algorand ASA ID of the Kani NFT.                        |
+| Role Name | The name of the role which should be assigned to this Kani. |
+
+### Example
+```
+?role 123456789 rumbler
+```
+
+## `?name`
+Change the name of your Kani NFT on the Algorand network.
+
+This command requires two arguments in this order:
+
+| Argument | Description                                                                                                 |
+| -------- | ----------------------------------------------------------------------------------------------------------- |
+| Asset ID | The Algorand ASA ID of the Kani NFT.                                                                        |
+| Name     | The name to assign to this Kani. Note, if the name contains spaces you must enclose the name in quotes `"`. |
+
+### Examples
+```
+?name 123456789 Grabby
+```
+```
+?name 123456789 "Grabby Crabby"
+```
+
 # Assign a Role
 You can go ahead and use the [`?role`](/docs/commands/#role) command to assign
 the desired role to your Kani. For example to assign the **Rumbler** role to
@@ -13,12 +62,7 @@ the Kani with ASA ID `394252318` you would run this command in the
 ```
 ?role 394252318 rumbler
 ```
----
-layout: page
-title: Kani Roles
-parent: Gameplay
-grand_parent: Documentation
----
+
 # Kani Roles
 A Kani can be assigned one of several roles which perform different functions
 in the game. The three main roles are:
