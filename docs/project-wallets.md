@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Wallets
-parent: Documentation
+title: Project Wallets
+parent: About The Project
 ---
 # Wallets
-There are several Algorand wallet addresses associated with Kani World. Their
+There are several Algorand wallet addresses associated with the Kani World Project. Their
 uses are detailed below.
 
 ## Kappa Bot Wallet
