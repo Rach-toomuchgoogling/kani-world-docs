@@ -10,7 +10,7 @@ nav_order: 2
 4. Go to the [`#verify`](/docs/channels/verify) channel and run the
    [`?verify <wallet address>`](/docs/commands/#verify) command to register
    your wallet. The bot will delete your message, check you have a Kani, and
-   give you the appropriate Discord server role. 
+   give you the `@Kani Owner` role. 
 
 
 Once verified you will be able to access the game channels and start playing
