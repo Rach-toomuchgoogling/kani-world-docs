@@ -1,3 +1,7 @@
+## Peer to Peer 
+While both algo and scum (in-game item) are both  used to facilitate many trades 
+between players, Kani Coin sees heavy useage as well.
+
 ## Kani Coin Auctions
 Kani Coin Auctions is a channel for any auction in Kani Coin. Community members
 are welcome to list anything they like in this channel and moderate the
