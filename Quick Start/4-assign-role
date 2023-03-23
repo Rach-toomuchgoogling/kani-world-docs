@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 5. Assign a Role
+title: 4. Assign a Role
 parent: Quick Start
-nav_order: 5
+nav_order: 4
 ---
 # Assign a Role
 You can go ahead and use the [`?role`](/docs/commands/#role) command to assign
@@ -14,4 +14,4 @@ the Kani with ASA ID `394252318` you would run this command in the
 ?role 394252318 rumbler
 ```
 
-[Next: Scavenge for Scum](/docs/quick-start/3-scavenge){: .btn .btn-blue }
+[Next: Scavenge for Scum](/docs/quick-start/5-scavenge){: .btn .btn-blue }
