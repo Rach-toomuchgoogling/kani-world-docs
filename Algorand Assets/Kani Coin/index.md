@@ -7,7 +7,7 @@ nav_order: 10
 
 # Kani Coin
 Asset ID `638594993`
-Please add this asset if you want to receive Kani Coin distributions to your wallet.
+Please add this asset in order to receive Kani Coin distributions to your wallet.
 
 Kani Coin is the main in game currency of Kani World. It can be accumulated
 passively by holding Kani in your wallet and actively through playing the 
