@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Quick Start
+title: Get Started Playing
 has_children: true
 ---
-# Quick Start
-
+# Get Started Playing
